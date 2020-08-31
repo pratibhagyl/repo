@@ -74,7 +74,7 @@ list.remove("def");*/
 	System.out.println(list.get(i));
 }*/
 //list.removeAll(list1);
-//System.out.println(list);
+System.out.println(list);
 /*list.removeIf(str->str.contains("rahul"));
 System.out.println(list);
 list.retainAll(list1);
