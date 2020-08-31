@@ -43,7 +43,7 @@ list2.add("rahul");
 //list.add("ghi");
 //list.addAll(list1);
 list.addAll(1,list2);
-list2.clear();
+//list2.clear();
 System.out.println(list2);
 /*System.out.println(list2.isEmpty());
 System.out.println(list.lastIndexOf("def"));
