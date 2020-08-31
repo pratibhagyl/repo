@@ -59,7 +59,7 @@ ArrayList list4=(ArrayList)b2.readObject();
 //System.out.println(list1.replaceAll(list2));
 //System.out.println(list.removeAll("ghi")));
 String arr[]=list.toArray(new String[list.size()]);
-System.out.println(arr[0]);
+//System.out.println(arr[0]);
 //Collections.sort(list);
 /*for(int i=0;i<list.size();i++)
 {
