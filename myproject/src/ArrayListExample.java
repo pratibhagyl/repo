@@ -86,7 +86,7 @@ System.out.println(list.get(0));
 System.out.println(list);
 System.out.println(list.get(1));
 System.out.println(list.clone());
-//list.removeRange(0,1);
+list.removeRange(0,1);
 
 Iterator<Employee> itr=list3.iterator();
 /*while(itr.hasNext())
